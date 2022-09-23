@@ -1,2 +1,2 @@
 # Datacamp-data-engineer-track
-A curated list of the online course about Data Engineering in datacamp with python, sql, pyspark, etc...
+A repository created to getting started on Data Engineering with python
