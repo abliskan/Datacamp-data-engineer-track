@@ -1,0 +1,1 @@
+A: echo "Right now it is `date`"
