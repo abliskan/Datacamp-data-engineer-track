@@ -1,0 +1,1 @@
+A: It will run forever because emp_num isn't incremented inside the loop.
