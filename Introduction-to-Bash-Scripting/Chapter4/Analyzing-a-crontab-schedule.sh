@@ -1,0 +1,1 @@
+A: 15 minutes past every hour on Saturdays and Sundays.
